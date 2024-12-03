@@ -1,4 +1,3 @@
-data = """
 69214   60950
 83241   49638
 37930   31308
@@ -999,23 +998,3 @@ data = """
 41947   82348
 52576   12845
 91921   51318
-"""
-
-# Inicializamos las listas
-columna1 = []
-columna2 = []
-
-# Procesamos los datos línea por línea
-for linea in data.strip().split('\n'):
-	value1, value2 = map(int, linea.split())	# Convertimos los valores a enteros
-	columna1.append(value1)
-	columna2.append(value2)
-
-sorted_list1 = sorted(columna1)
-sorted_list2 = sorted(columna2)
-
-total = 0
-for i in range(len(columna1)):
-	total += abs(sorted_list1[i] - sorted_list2[i])
-
-print(total)
