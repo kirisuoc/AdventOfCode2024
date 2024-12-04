@@ -38,7 +38,7 @@ AdventOfCode2024/
 2. **Dirígete al directorio correspondiente a cada día:**
    
    ```bash
-   cd AdventOfCode2024/day1
+   cd AdventOfCode2024/Day1
 
 3. **Ejecuta la solución de Python:**
    
