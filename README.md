@@ -4,19 +4,19 @@ Este repositorio contiene las soluciones a los desafíos del [Advent of Code 202
 
 ## ¿Qué es Advent of Code?
 
-[Advent of Code](https://adventofcode.com/) es un evento de programación que consiste en una serie de retos de codificación que se publican diariamente durante el mes de diciembre, comenzando el día 1 y terminando el 25. Cada día, el desafío varía en dificultad y tipo, lo que hace que sea una excelente oportunidad para mejorar tus habilidades de programación y lógica.
+[Advent of Code](https://adventofcode.com/) es un evento de programación que consiste en una serie de retos de programación y lógica que se publican diariamente durante el mes de diciembre, comenzando el día 1 y terminando el 25. Cada día, el desafío varía en dificultad y tipo, lo que hace que sea una excelente oportunidad para mejorar tus habilidades de programación y lógica.
 
 ## Estructura del Repositorio
 
 El repositorio está organizado por cada día de diciembre. Por ejemplo:
 ```
 AdventOfCode2024/
-├── day01/
+├── Day01/
 │   ├── solution.py
 │   ├── input.txt
 │   └── README.md
 │
-├── day02/
+├── Day02/
 │   ├── solution.py
 │   ├── input.txt
 │   └── README.md
