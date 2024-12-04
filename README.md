@@ -44,15 +44,28 @@ AdventOfCode2024/
    
    ```bash
    python3 solution.py
+   ```
+   Asegúrate de tener Python 3 instalado en tu sistema. Si no lo tienes, puedes descargarlo así:
 
-   Asegúrate de tener Python 3 instalado en tu sistema. Si no lo tienes, puedes descargarlo desde python.org.
+   ### En Linux (Debian/Ubuntu):
+   ```bash
+   sudo apt update
+   sudo apt install python3
+   ```
+
+   ### En MacOS(con Homebrew):
+   ```bash
+   brew install python3
+   ```
+
+   ### En Windows
+   Puedes descargar el instalador desde la página oficial de Python: https://www.python.org/downloads/. Una vez descargado el archivo, ejecútalo y sigue las instrucciones del instalador.
+   
 
 ## Contribuciones
 Si deseas contribuir al repositorio, puedes hacerlo abriendo un pull request o sugiriendo mejoras. Cualquier mejora es bienvenida.
 
 ## Licencia
-Este proyecto está bajo la licencia MIT. Puedes ver más detalles en el archivo [LICENSE]([https://adventofcode.com/](https://github.com/kirisuoc/AdventOfCode2024/blob/main/LICENSE
+Este proyecto está bajo la licencia [MIT](LICENSE). Puedes ver más detalles en el archivo [LICENSE]([https://adventofcode.com/](https://github.com/kirisuoc/AdventOfCode2024/blob/main/LICENSE
 ).
-
-
 
