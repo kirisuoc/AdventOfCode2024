@@ -29,7 +29,7 @@ AdventOfCode2024/
 - **`README.md`**: Descripción de cómo correr el código, si es necesario, o detalles adicionales de la solución.
 
 
-### Estado de los Desafíos
+### Progreso de los Desafíos
 
 A continuación se muestra el progreso en los desafíos de cada día:
 
