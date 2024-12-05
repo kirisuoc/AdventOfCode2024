@@ -1,6 +1,6 @@
 # Advent of Code 2024 - Respuestas en Python
 
-Este repositorio contiene las soluciones a los desafíos del [Advent of Code 2024](https://adventofcode.com/2024) implementadas en Python. Cada día, se resuelven los problemas correspondientes y se suben como archivos Python (.py).
+Este repositorio contiene mi intento personal de completar los desafíos del [Advent of Code 2024](https://adventofcode.com/2024), implementando soluciones en Python.
 
 ## ¿Qué es Advent of Code?
 
@@ -23,6 +23,44 @@ AdventOfCode2024/
 │
 ...
 ```
+
+### Estado de los Desafíos
+
+A continuación se muestra el progreso en los desafíos de cada día:
+
+- **Day 1:** 2/2 ✅
+- **Day 2:** 2/2 ✅
+- **Day 3:** 2/2 ✅
+- **Day 4:** 2/2 ✅
+- **Day 5:** 1/2 🟡
+- **Day 6:** 0/2 ⚪ (No comenzado)
+- **Day 7:** 0/2 ⚪ (No comenzado)
+- **Day 8:** 0/2 ⚪ (No comenzado)
+- **Day 9:** 0/2 ⚪ (No comenzado)
+- **Day 10:** 0/2 ⚪ (No comenzado)
+- **Day 11:** 0/2 ⚪ (No comenzado)
+- **Day 12:** 0/2 ⚪ (No comenzado)
+- **Day 13:** 0/2 ⚪ (No comenzado)
+- **Day 14:** 0/2 ⚪ (No comenzado)
+- **Day 15:** 0/2 ⚪ (No comenzado)
+- **Day 16:** 0/2 ⚪ (No comenzado)
+- **Day 17:** 0/2 ⚪ (No comenzado)
+- **Day 18:** 0/2 ⚪ (No comenzado)
+- **Day 19:** 0/2 ⚪ (No comenzado)
+- **Day 20:** 0/2 ⚪ (No comenzado)
+- **Day 21:** 0/2 ⚪ (No comenzado)
+- **Day 22:** 0/2 ⚪ (No comenzado)
+- **Day 23:** 0/2 ⚪ (No comenzado)
+- **Day 24:** 0/2 ⚪ (No comenzado)
+- **Day 25:** 0/2 ⚪ (No comenzado)
+
+**Leyenda:**
+
+- ✅: Desafíos completos
+- 🟡: Desafíos no completados al 100%
+- ⚪: Desafíos pendientes
+- ❌: Desafíos no realizado
+
 
 - **`aoc[day]-[exercise].py`**: El archivo de Python con la solución del día.
 - **`input.txt`**: Los datos de entrada utilizados para la solución (por lo general se extraen del sitio web de Advent of Code).
