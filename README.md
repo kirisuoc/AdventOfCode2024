@@ -64,7 +64,7 @@ A continuación se muestra el progreso en los desafíos de cada día:
 - ✅: Desafíos completos
 - 🟡: Desafíos no completados al 100%
 - ⚪: Desafíos pendientes
-- ❌: Desafíos no realizado
+- ❌: Desafíos no realizados
 
   
 ## Cómo ejecutar las soluciones
