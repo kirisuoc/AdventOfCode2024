@@ -24,6 +24,11 @@ AdventOfCode2024/
 ...
 ```
 
+- **`aoc[day]-[exercise].py`**: El archivo de Python con la solución del día.
+- **`input.txt`**: Los datos de entrada utilizados para la solución (por lo general se extraen del sitio web de Advent of Code).
+- **`README.md`**: Descripción de cómo correr el código, si es necesario, o detalles adicionales de la solución.
+
+
 ### Estado de los Desafíos
 
 A continuación se muestra el progreso en los desafíos de cada día:
@@ -61,11 +66,7 @@ A continuación se muestra el progreso en los desafíos de cada día:
 - ⚪: Desafíos pendientes
 - ❌: Desafíos no realizado
 
-
-- **`aoc[day]-[exercise].py`**: El archivo de Python con la solución del día.
-- **`input.txt`**: Los datos de entrada utilizados para la solución (por lo general se extraen del sitio web de Advent of Code).
-- **`README.md`**: Descripción de cómo correr el código, si es necesario, o detalles adicionales de la solución.
-
+  
 ## Cómo ejecutar las soluciones
 
 1. **Clona este repositorio:**
