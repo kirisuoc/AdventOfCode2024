@@ -38,7 +38,7 @@ A continuación se muestra el progreso en los desafíos de cada día:
 - **Day 3:** 2/2 ✅
 - **Day 4:** 2/2 ✅
 - **Day 5:** 1/2 🟡
-- **Day 6:** 0/2 ⚪ (No comenzado)
+- **Day 6:** 1/2 🟡
 - **Day 7:** 0/2 ⚪ (No comenzado)
 - **Day 8:** 0/2 ⚪ (No comenzado)
 - **Day 9:** 0/2 ⚪ (No comenzado)
