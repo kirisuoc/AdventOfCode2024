@@ -1,6 +1,6 @@
-# Advent of Code 2024 - Respuestas en Python
+# Advent of Code 2024
 
-Este repositorio contiene mi intento personal de completar los desafíos del [Advent of Code 2024](https://adventofcode.com/2024), implementando soluciones en Python.
+Este repositorio contiene mi intento personal de completar los desafíos del [Advent of Code 2024](https://adventofcode.com/2024).
 
 ## ¿Qué es Advent of Code?
 
@@ -38,7 +38,7 @@ A continuación se muestra el progreso en los desafíos de cada día:
 - **Day 3:** 2/2 ✅
 - **Day 4:** 2/2 ✅
 - **Day 5:** 1/2 🟡
-- **Day 6:** 1/2 🟡
+- **Day 6:** 2/2 ✅
 - **Day 7:** 0/2 ⚪ (No comenzado)
 - **Day 8:** 0/2 ⚪ (No comenzado)
 - **Day 9:** 0/2 ⚪ (No comenzado)
