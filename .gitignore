@@ -2,3 +2,4 @@
 ./vscode
 *.c
 aoc5-2.py
+inputtest.txt
